@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .bolt
 
+/backend/node_modules/
+
+/backend/venv/
